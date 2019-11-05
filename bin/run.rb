@@ -1,3 +1,5 @@
+require 'bundle'
+
 source "https://rubygems.org"
  
 gem "sinatra"
